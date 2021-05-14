@@ -21,10 +21,10 @@ classes: wide
   [Daniel Neider](http://people.mpi-sws.org/~neider/),
   [Rajarshi Roy](https://people.mpi-sws.org/~rajarshi/),
   [Benoît Barbot](https://www.lacl.fr/~barbot/),
-  [Benedikt Bollig](https://www.benedikt-bollig.org/)
-  [Alain Finkel](http://www.lsv.fr/~finkel/)
-  [Serge Haddad](http://www.lsv.fr/~haddad/)
-  [Martin Leucker](https://www.isp.uni-luebeck.de/leucker) 
+  [Benedikt Bollig](https://www.benedikt-bollig.org/),
+  [Alain Finkel](http://www.lsv.fr/~finkel/),
+  [Serge Haddad](http://www.lsv.fr/~haddad/),
+  [Martin Leucker](https://www.isp.uni-luebeck.de/leucker), 
   [Lina Ye](https://www.lri.fr/~linaye/)\\
   _submitted to [**ATVA 2021**](https://formal-analysis.com/atva/2021/)._ \\
   [arXiv](https://arxiv.org/abs/2104.15083){: .btn .btn--primary .btn--small}
@@ -36,8 +36,8 @@ classes: wide
 * **Quality Guarantees for Autoencoders via Unsupervised Adversarial Attacks.**\\
   [Benedikt Böing](https://www.cs.tu-dortmund.de/nps/de/Home/Personen/B/Boeing__Benedikt.html),
   [Rajarshi Roy](https://people.mpi-sws.org/~rajarshi/),
-  [Emmanuel Müller](http://ls9-www.cs.tu-dortmund.de/)
-  [Daniel Neider](https://people.mpi-sws.org/~neider/),\\
+  [Emmanuel Müller](http://ls9-www.cs.tu-dortmund.de/),
+  [Daniel Neider](https://people.mpi-sws.org/~neider/)\\
   _Machine Learning and Knowledge Discovery in Databases - European Conference, September 2020.
   ([**ECML/PKDD 2020**](https://ecmlpkdd2020.net/))._ \\
   [paper](http://ls9-www.cs.tu-dortmund.de/publications/ECMLPKDD2020.pdf){: .btn .btn--primary .btn--small}
@@ -45,7 +45,7 @@ classes: wide
 * **Learning Interpretable Models in the Property Specification Language.**\\
   [Rajarshi Roy](https://people.mpi-sws.org/~rajarshi/),
   [Dana Fisman](https://www.cs.bgu.ac.il/~dana/),
-  [Daniel Neider](https://people.mpi-sws.org/~neider/),\\
+  [Daniel Neider](https://people.mpi-sws.org/~neider/)\\
   _Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, January 2021.
   ([**IJCAI 2020**](https://ijcai20.org/))._\\
   [paper](https://www.ijcai.org/Proceedings/2020/306){: .btn .btn--primary .btn--small}
@@ -54,7 +54,7 @@ classes: wide
   [Ahmed Bouajjani](https://www.irif.fr/~abou/),
   [Constantin Enea](https://www.irif.fr/~cenea/),
   [Madhavan Mukund](https://www.cmi.ac.in/~madhavan/),
-  [Rajarshi Roy](https://people.mpi-sws.org/~rajarshi/),\\
+  [Rajarshi Roy](https://people.mpi-sws.org/~rajarshi/)\\
   _Networked Systems - 6th International Conference, May 2018
   ([**NETYS 2018**](http://netys.net/history/netys2018/))._\\
   [paper](https://www.cmi.ac.in/~madhavan/papers/pdf/bemr-netys2018.pdf){: .btn .btn--primary .btn--small}
