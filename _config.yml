@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Filip Nikšić"
-name: "Filip Nikšić"
-email: "fniksic@seas.upenn.edu"
+title: "Rajarshi Roy"
+name: "Rajarshi Roy"
+email: "rajarshi@mpi-sws.org"
 description: >- # this means to ignore newlines until "baseurl:"
-  Filip Nikšić's personal web page
-url: "https://fniksic.github.io"
-repository: "fniksic/fniksic.github.io"
-minimal_mistakes_skin: "default"
+  Rajarshi Roy's personal web page
+url: "https://rajarshi008.github.io"
+repository: "rajarshi008/rajarshi008.github.io"
+minimal_mistakes_skin: "dirt"
 search: false
 
 # Analytics
@@ -31,31 +31,21 @@ analytics:
     anonymize_ip: false # default
 
 # Social Sharing
-twitter:
-  username: "FilipNiksic"
 facebook:
-  username: "fniksic"
+  username: "rajarshi008"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type: "Person"
-  name: "Filip Nikšić"
+  name: "Rajarshi Roy"
   links:
-    - "https://www.facebook.com/fniksic"
-    - "https://twitter.com/FilipNiksic"
-    - "https://www.linkedin.com/in/fniksic/"
-    - "https://github.com/fniksic/"
+    - "https://www.facebook.com/rajarshi.roy.587"
+    - "https://github.com/rajarshi008"
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.19.2"
-# Outputting
-permalink: /blog/:year/:month/:day/:title/
-paginate: 3 # amount of posts to show
-paginate_path: /page:num/
-timezone: America/New_York
-words_per_minute: 200
-
+remote_theme: "mmistakes/minimal-mistakes@4.19.2
+"
 include:
   - _pages
 
@@ -81,58 +71,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Filip Nikšić"
-  avatar : "/assets/images/fn.jpg"
-  bio    : "Computer scientist currently working as a software engineer at Google"
-  location: "Philadelphia, USA"
+  name   : "Rajarshi Roy"
+  avatar : "/assets/images/me.jpg"
+  bio    : "Doctoral student at Max Planck Institute for Software Systems"
+  location: "Kaiserslautern, Germany"
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/fniksic"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/FilipNiksic"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/fniksic/"
+      url: "https://www.facebook.com/rajarshi.roy.587"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/fniksic/"
+      url: "https://github.com/rajarshi008"
+
+
 
 footer:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/fniksic"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/FilipNiksic"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/fniksic/"
+      url: "https://www.facebook.com/rajarshi.roy.587"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/fniksic/"
+      url: "https://github.com/rajarshi008"
 
-comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-light"
-    issue_term: "pathname"
-    label: "blog post"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
