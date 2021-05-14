@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-## Welcome!
+Welcome!
 
 I am a doctoral student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), Kaiserslautern advised 
 by [Dr. Daniel Neider](https://people.mpi-sws.org/~neider/). I am generally interested in analysing systems used in Artificial 

@@ -1,4 +1,9 @@
-<!doctype html>
+
+*** These modified files were found in JOE when it aborted on Fri May 14 16:17:20 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '/home/rajarshi/git-projects/rajarshi008.github.io/_site/index.html'
+ub<!doctype html>
 <!--
   Minimal Mistakes Jekyll Theme 4.19.2 by Michael Rose
   Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
@@ -33,6 +38,11 @@
 
 
 
+
+
+  
+
+  
 
 
 <link rel="canonical" href="http://localhost:4000/">
@@ -270,7 +280,7 @@ by <a href="https://people.mpi-sws.org/~neider/">Dr. Daniel Neider</a>. I am gen
 Intelligence and Machine Learning, using formal verification techniques.</p>
 
 <p>Earlier, I was a student at <a href="https://www.cmi.ac.in/">Chennai Mathematical Institute</a> (CMI) from where I obtained both my bachelor’s 
-and master’s degree. I would like to thank all my teachers in CMI for the support and help</p>
+and master’s degree.</p>
 
 
 <h3 class="archive__subtitle">Recent Posts</h3>
@@ -333,3 +343,13 @@ and master’s degree. I would like to thank all my teachers in CMI for the supp
 
   </body>
 </html>
+
+*** File '(Unnamed)'
+/local/home/rajarshi/gitlab-projects/learning-psl/.git/COMMIT_EDITMSG
+/home/rajarshi/git-projects/rajarshi008.github.io/_site/index.html
+
+*** File '* Startup Log *'
+Processing '/etc/joe/jmacsrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/jmacsrc
