@@ -50,6 +50,7 @@ classes: wide
   ([**IJCAI 2020**](https://ijcai20.org/))._\\
   [paper](https://www.ijcai.org/Proceedings/2020/306){: .btn .btn--primary .btn--small}
   [talk](https://www.ijcai.org/proceedings/2020/video/26797){: .btn .btn--primary .btn--small}
+  [poster](/assets/files/ijcai_poster.pdf){: .btn .btn--primary .btn--small}
 * **On Verifying TSO Robustness for Event-Driven Asynchronous Programs.**\\
   [Ahmed Bouajjani](https://www.irif.fr/~abou/),
   [Constantin Enea](https://www.irif.fr/~cenea/),
