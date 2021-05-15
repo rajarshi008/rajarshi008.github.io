@@ -1166,7 +1166,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 /* Default ========================================================================== */
 .sidebar { clear: both; }
 .sidebar::after { clear: both; content: ""; display: table; }
-@media (min-width: 64em) { .sidebar { float: left; width: calc(200px - 1em); opacity: 0.75; -webkit-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
+@media (min-width: 64em) { .sidebar { float: left; width: calc(200px - 1em); opacity: 1; -webkit-transition: opacity 0s ease-in-out; transition: opacity 0s ease-in-out; }
   .sidebar:hover { opacity: 1; }
   .sidebar.sticky { overflow-y: auto; /* calculate height of nav list viewport height - nav height - masthead x-padding
 */ height: calc(100vh - 2em - 2em); } }
