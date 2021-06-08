@@ -2,9 +2,9 @@
 title: "Publications"
 permalink: /publications/
 classes: wide
----
-
-## Under Submission
+---  
+  
+## Papers
 
 * **Learning Linear Temporal Properties from Noisy Data - A MaxSAT-based approach**\\
   [Jean-Raphaël Gaglione](https://sites.google.com/view/jean-raphael-gaglione),
@@ -12,7 +12,7 @@ classes: wide
   [Rajarshi Roy](https://people.mpi-sws.org/~rajarshi/),
   [Ufuk Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page),
   [Zhe Xu](https://sites.google.com/site/zhexudavid00710)\\
-  _submitted to [**ATVA 2021**](https://formal-analysis.com/atva/2021/)_ \\
+  _[**ATVA 2021**](https://formal-analysis.com/atva/2021/)_ \\
   [arXiv](https://arxiv.org/abs/2104.15083){: .btn .btn--primary .btn--small}
   [repository](https://github.com/cryhot/samples2LTL){: .btn .btn--primary .btn--small}
 
@@ -26,12 +26,9 @@ classes: wide
   [Serge Haddad](http://www.lsv.fr/~haddad/),
   [Martin Leucker](https://www.isp.uni-luebeck.de/leucker), 
   [Lina Ye](https://www.lri.fr/~linaye/)\\
-  _submitted to [**ATVA 2021**](https://formal-analysis.com/atva/2021/)._ \\
+  _[**ATVA 2021**](https://formal-analysis.com/atva/2021/)._ \\
   [arXiv](https://arxiv.org/abs/2104.15083){: .btn .btn--primary .btn--small}
   [repository](https://github.com/LeaRNNify/Property-directed-verification){: .btn .btn--primary .btn--small}
-  
-  
-## Papers
 
 * **Quality Guarantees for Autoencoders via Unsupervised Adversarial Attacks.**\\
   [Benedikt Böing](https://www.cs.tu-dortmund.de/nps/de/Home/Personen/B/Boeing__Benedikt.html),
