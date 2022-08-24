@@ -86,9 +86,9 @@ author:
 
 footer:
   links:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/rajarshi.roy.587"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rajarshi-roy-926880211/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rajarshi008"
