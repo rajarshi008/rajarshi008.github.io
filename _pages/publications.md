@@ -31,11 +31,11 @@ classes: wide
   [Benedikt Bollig](https://www.benedikt-bollig.org/),
   [Martin Leucker](https://www.isp.uni-luebeck.de/leucker),
   [Daniel Neider](http://people.mpi-sws.org/~neider/),
-  Rajarshi Roy,\\
+  Rajarshi Roy\\
   _**GandALF 2022** (To appear)_
 
 
-* **Robust Computation Tree Logic**
+* **Robust Computation Tree Logic**\\
   [Satya Prakash Nayak](https://satya2009rta.github.io/),
   [Daniel Neider](http://people.mpi-sws.org/~neider/),
   Rajarshi Roy,
