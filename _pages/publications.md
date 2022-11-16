@@ -148,7 +148,7 @@ classes: wide
 * **Expanding the horizon of Linear Temporal Logic Inference for Explainability**\\
   R. Roy,
   [D. Neider](http://people.mpi-sws.org/~neider/),\\
-  _Requirements Engineering for Explainable Systems, 2022 (**RE4ES 2022**) (To appear)_
+  _Requirements Engineering for Explainable Systems, 2022 ([**RE4ES 2022**](https://re4es.se.uni-hannover.de/))_
 
 
 * **MaxSAT-based Temporal Logic Inference from Noisy Data**\\
