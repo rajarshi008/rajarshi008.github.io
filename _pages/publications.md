@@ -6,15 +6,15 @@ classes: wide
 
 ## Under Submission
 
-* **Learning Interpretable Temporal Properties from Positive Examples Only**\\
-  [Rajarshi Roy](https://people.mpi-sws.org/~rajarshi/),
-  [Jean-Raphaël Gaglione](https://sites.google.com/view/jean-raphael-gaglione),
-  Nasim Baharisangari,
-  [Daniel Neider](http://people.mpi-sws.org/~neider/),
-  [Ufuk Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page),
-  [Zhe Xu](https://sites.google.com/site/zhexudavid00710)
+* **Learning Interpretable Temporal Properties from Positive Examples Only.**\\
+  [R. Roy](https://people.mpi-sws.org/~rajarshi/),
+  [J. Gaglione](https://sites.google.com/view/jean-raphael-gaglione),
+  N. Baharisangari,
+  [D. Neider](http://people.mpi-sws.org/~neider/),
+  [U. Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page),
+  [Z. Xu](https://sites.google.com/site/zhexudavid00710)
   
-* **Specification Sketching for Linear Temporal Logic**\\
+* **Specification Sketching for Linear Temporal Logic.**\\
   S. Lutz, 
   [D. Neider](http://people.mpi-sws.org/~neider/), 
   R. Roy.
@@ -22,7 +22,7 @@ classes: wide
 
 ## Conference Papers
 
-* **Analyzing Robustness of Angluin's L* Algorithm in Presence of Noise**\\
+* **Analyzing Robustness of Angluin's L* Algorithm in Presence of Noise.**\\
   [I. Khmelnitsky](https://igorkhm.github.io/),
   [S. Haddad](http://www.lsv.fr/~haddad/),
   [L. Ye](https://www.lri.fr/~linaye/),
@@ -31,10 +31,10 @@ classes: wide
   [M. Leucker](https://www.isp.uni-luebeck.de/leucker),
   [D. Neider](http://people.mpi-sws.org/~neider/),
   R. Roy\\
-  _International Symposium on Games, Automata, Logics and Formal Verification ([**GandALF 2022**](https://gandalf2022.software.imdea.org/))._
+  _Games, Automata, Logics and Formal Verification ([**GandALF 2022**](https://gandalf2022.software.imdea.org/))._
   [paper](https://arxiv.org/abs/2209.10315v1){: .btn .btn--primary .btn--small}
 
-* **Robust Computation Tree Logic**\\
+* **Robust Computation Tree Logic.**\\
   [S.P. Nayak](https://satya2009rta.github.io/),
   [D. Neider](http://people.mpi-sws.org/~neider/),
   R. Roy,
@@ -43,7 +43,7 @@ classes: wide
   [paper](https://link.springer.com/chapter/10.1007/978-3-030-99524-9_14){: .btn .btn--primary .btn--small}
   [arXiv](https://arxiv.org/abs/2201.07116){: .btn .btn--primary .btn--small}
 
-* **Scalable Anytime Algorithms for Learning Fragments of Linear Temporal Logic**\\
+* **Scalable Anytime Algorithms for Learning Fragments of Linear Temporal Logic.**\\
   [R. Raha](https://ritamraha.github.io/),
   R. Roy,
   [N. Fijalkow](https://ritamraha.github.io/),
@@ -55,7 +55,7 @@ classes: wide
   [tool](https://github.com/rajarshi008/Scarlet){: .btn .btn--primary .btn--small}
   [poster](/assets/files/tacas_poster.pdf){: .btn .btn--primary .btn--small}
 
-* **Extracting Context-Free Grammars from Recurrent Neural Networks using Tree-Automata Learning and A\* Search**\\
+* **Extracting Context-Free Grammars from Recurrent Neural Networks using Tree-Automata Learning and A\* Search.**\\
   [B. Barbot](https://www.lacl.fr/~barbot/),
   [B. Bollig](https://www.benedikt-bollig.org/),
   [A. Finkel](http://www.lsv.fr/~finkel/),
@@ -70,7 +70,7 @@ classes: wide
   [paper](https://proceedings.mlr.press/v153/barbot21a.html){: .btn .btn--primary .btn--small}
   [talk](https://www.youtube.com/watch?v=p17EsQg-9tI){: .btn .btn--primary .btn--small}
 
-* **Learning Linear Temporal Properties from Noisy Data - A MaxSAT-based approach**\\
+* **Learning Linear Temporal Properties from Noisy Data - A MaxSAT-based approach.**\\
   [J. Gaglione](https://sites.google.com/view/jean-raphael-gaglione),
   [D. Neider](http://people.mpi-sws.org/~neider/),
   R. Roy,
@@ -147,7 +147,7 @@ classes: wide
 
 * **Expanding the horizon of Linear Temporal Logic Inference for Explainability**\\
   R. Roy,
-  [D. Neider](http://people.mpi-sws.org/~neider/),\\
+  [D. Neider](http://people.mpi-sws.org/~neider/)\\
   _Requirements Engineering for Explainable Systems, 2022 ([**RE4ES 2022**](https://re4es.se.uni-hannover.de/))_
 
 
@@ -155,7 +155,7 @@ classes: wide
   [J. Gaglione](https://sites.google.com/view/jean-raphael-gaglione),
   [D. Neider](http://people.mpi-sws.org/~neider/),
   R. Roy,
-  [U. Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page),
+  [U. Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page)
   [Z. Xu](https://sites.google.com/site/zhexudavid00710)\\
   _Innovations in Systems and Software Engineering, 2022
   ([**ISSE 2022**](https://www.springer.com/journal/11334))_.\\
