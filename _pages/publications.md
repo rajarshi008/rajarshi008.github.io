@@ -31,7 +31,7 @@ classes: wide
   [M. Leucker](https://www.isp.uni-luebeck.de/leucker),
   [D. Neider](http://people.mpi-sws.org/~neider/),
   R. Roy\\
-  _Games, Automata, Logics and Formal Verification ([**GandALF 2022**](https://gandalf2022.software.imdea.org/))._
+  _Games, Automata, Logics and Formal Verification ([**GandALF 2022**](https://gandalf2022.software.imdea.org/))._\\
   [paper](https://arxiv.org/abs/2209.10315v1){: .btn .btn--primary .btn--small}
 
 * **Robust Computation Tree Logic.**\\
