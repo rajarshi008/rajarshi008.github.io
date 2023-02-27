@@ -5,22 +5,34 @@ classes: wide
 ---  
 
 ## Under Submission
-
-* **Learning Interpretable Temporal Properties from Positive Examples Only.**\\
-  [R. Roy](https://people.mpi-sws.org/~rajarshi/),
-  [J. Gaglione](https://sites.google.com/view/jean-raphael-gaglione),
-  N. Baharisangari,
-  [D. Neider](http://people.mpi-sws.org/~neider/),
-  [U. Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page),
-  [Z. Xu](https://sites.google.com/site/zhexudavid00710)
   
+* **Synthesizing Efficiently Monitorable Formulas in Metric
+  Temporal Logic.**\\
+  R. Raha,
+  R. Roy,
+  N. Fijalkow,
+  D. Neider,
+  G.A. Perez.
+
 * **Specification Sketching for Linear Temporal Logic.**\\
-  S. Lutz, 
-  [D. Neider](http://people.mpi-sws.org/~neider/), 
+  S. Lutz,
+  D. Neider,
   R. Roy.
 
 
 ## Conference Papers
+
+* **Learning Interpretable Temporal Properties from Positive Examples Only.**\\
+  R. Roy,
+  [J. Gaglione](https://sites.google.com/view/jean-raphael-gaglione),
+  N. Baharisangari,
+  [D. Neider](http://people.mpi-sws.org/~neider/),
+  [U. Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page),
+  [Z. Xu](https://sites.google.com/site/zhexudavid00710)\\
+  _AAAI Conference on Artificial Intelligence ([**AAAI 2023**](https://aaai-23.aaai.org/))_\\
+  [arXiv](https://arxiv.org/abs/2209.02650){: .btn .btn--primary .btn--small}
+  [poster](/assets/files/aaai_poster.pdf){: .btn .btn--primary .btn--small}
+  [talk](https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-01-06/72330xk/AAAI_presentation.mp4){: .btn .btn--primary .btn--small}
 
 * **Analyzing Robustness of Angluin's L* Algorithm in Presence of Noise.**\\
   [I. Khmelnitsky](https://igorkhm.github.io/),
@@ -105,8 +117,7 @@ classes: wide
   R. Roy,
   [E. Müller](http://ls9-www.cs.tu-dortmund.de/),
   [D. Neider](https://people.mpi-sws.org/~neider/)\\
-  _Machine Learning and Knowledge Discovery in Databases - European Conference, 2020.
-  ([**ECML/PKDD 2020**](https://ecmlpkdd2020.net/))._ \\
+  _Machine Learning and Knowledge Discovery in Databases - European Conference, 2020 ([**ECML/PKDD 2020**](https://ecmlpkdd2020.net/))._ \\
   [paper](https://www.springerprofessional.de/en/quality-guarantees-for-autoencoders-via-unsupervised-adversarial/18899728){: .btn .btn--primary .btn--small}
   [open-access](http://ls9-www.cs.tu-dortmund.de/publications/ECMLPKDD2020.pdf){: .btn .btn--primary .btn--small}
   [talk](https://slideslive.com/38932393/quality-guarantees-for-autoencoders){: .btn .btn--primary .btn--small}
@@ -143,19 +154,20 @@ classes: wide
   [S. Haddad](http://www.lsv.fr/~haddad/),
   [M. Leucker](https://www.isp.uni-luebeck.de/leucker), 
   [L. Ye](https://www.lri.fr/~linaye/)\\
-  _**STTT 2022** (To appear)_
+  _International Journal on Software Tools for Technology Transfer ([**STTT 2022**](https://www.springer.com/journal/10009))_\\
+  [paper](https://link.springer.com/article/10.1007/s10009-022-00684-w){: .btn .btn--primary .btn--small}
 
 * **Expanding the horizon of Linear Temporal Logic Inference for Explainability**\\
   R. Roy,
   [D. Neider](http://people.mpi-sws.org/~neider/)\\
-  _Requirements Engineering for Explainable Systems, 2022 ([**RE4ES 2022**](https://re4es.se.uni-hannover.de/))_
-
+  _Requirements Engineering for Explainable Systems, 2022 ([**RE4ES 2022**](https://re4es.se.uni-hannover.de/))_\\
+  [paper](https://ieeexplore.ieee.org/document/9920141){: .btn .btn--primary .btn--small}
 
 * **MaxSAT-based Temporal Logic Inference from Noisy Data**\\
   [J. Gaglione](https://sites.google.com/view/jean-raphael-gaglione),
   [D. Neider](http://people.mpi-sws.org/~neider/),
   R. Roy,
-  [U. Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page)
+  [U. Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page),
   [Z. Xu](https://sites.google.com/site/zhexudavid00710)\\
   _Innovations in Systems and Software Engineering, 2022
   ([**ISSE 2022**](https://www.springer.com/journal/11334))_.\\
