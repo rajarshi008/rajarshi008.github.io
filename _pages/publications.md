@@ -29,7 +29,7 @@ classes: wide
   [D. Neider](http://people.mpi-sws.org/~neider/),
   [U. Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page),
   [Z. Xu](https://sites.google.com/site/zhexudavid00710)\\
-  _AAAI Conference on Artificial Intelligence ([**AAAI 2023**](https://aaai-23.aaai.org/))_\\
+  _AAAI Conference on Artificial Intelligence, 2023 ([**AAAI 2023**](https://aaai-23.aaai.org/))_\\
   [arXiv](https://arxiv.org/abs/2209.02650){: .btn .btn--primary .btn--small}
   [poster](/assets/files/aaai_poster.pdf){: .btn .btn--primary .btn--small}
   [talk](https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-01-06/72330xk/AAAI_presentation.mp4){: .btn .btn--primary .btn--small}
@@ -43,7 +43,7 @@ classes: wide
   [M. Leucker](https://www.isp.uni-luebeck.de/leucker),
   [D. Neider](http://people.mpi-sws.org/~neider/),
   R. Roy\\
-  _Games, Automata, Logics and Formal Verification ([**GandALF 2022**](https://gandalf2022.software.imdea.org/))._\\
+  _Games, Automata, Logics and Formal Verification, 2022 ([**GandALF 2022**](https://gandalf2022.software.imdea.org/))._\\
   [paper](https://arxiv.org/abs/2209.10315v1){: .btn .btn--primary .btn--small}
 
 * **Robust Computation Tree Logic.**\\
