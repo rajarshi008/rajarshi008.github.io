@@ -30,6 +30,7 @@ classes: wide
   [U. Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page),
   [Z. Xu](https://sites.google.com/site/zhexudavid00710)\\
   _AAAI Conference on Artificial Intelligence, 2023 ([**AAAI 2023**](https://aaai-23.aaai.org/))_\\
+  [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25800){: .btn .btn--primary .btn--small}
   [arXiv](https://arxiv.org/abs/2209.02650){: .btn .btn--primary .btn--small}
   [poster](/assets/files/aaai_poster.pdf){: .btn .btn--primary .btn--small}
   [talk](https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-01-06/72330xk/AAAI_presentation.mp4){: .btn .btn--primary .btn--small}
