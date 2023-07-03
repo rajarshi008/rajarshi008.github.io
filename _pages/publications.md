@@ -21,8 +21,9 @@ classes: wide
 * **Specification Sketching for Linear Temporal Logic.**\\
   S. Lutz,
   [D. Neider](http://people.mpi-sws.org/~neider/),
-  R. Roy.
+  R. Roy.\\
   [**ATVA 2023**](https://atva-conference.org/2023/): _To Appear_\\
+  [arXiv](https://arxiv.org/abs/2206.06722){: .btn .btn--primary .btn--small}
 
 * **Learning Interpretable Temporal Properties from Positive Examples Only.**\\
   R. Roy,
