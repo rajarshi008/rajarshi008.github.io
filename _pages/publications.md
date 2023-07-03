@@ -14,13 +14,15 @@ classes: wide
   D. Neider,
   G.A. Perez.
 
-* **Specification Sketching for Linear Temporal Logic.**\\
-  S. Lutz,
-  D. Neider,
-  R. Roy.
 
 
 ## Conference Papers
+
+* **Specification Sketching for Linear Temporal Logic.**\\
+  S. Lutz,
+  [D. Neider](http://people.mpi-sws.org/~neider/),
+  R. Roy.
+  [**ATVA 2023**](https://atva-conference.org/2023/): _To Appear_\\
 
 * **Learning Interpretable Temporal Properties from Positive Examples Only.**\\
   R. Roy,
