@@ -14,7 +14,7 @@ classes: wide
   [N. Fijalkow](https://ritamraha.github.io/),
   [D. Neider](http://people.mpi-sws.org/~neider/)
   [G.A. Perez](https://gaperez64.github.io/).\\
-  [**VMCAI 2024**]: _To Appear_
+  [**VMCAI 2024**](https://popl24.sigplan.org/home/VMCAI-2024): _To Appear_
 
 * **Specification Sketching for Linear Temporal Logic.**\\
   S. Lutz,
