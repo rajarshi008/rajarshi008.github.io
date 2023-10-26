@@ -3,7 +3,12 @@ title: "Publications"
 permalink: /publications/
 classes: wide
 ---  
+## Under Submission
 
+* **Inferring Properties in Computation Tree Logic**
+  R. Roy,
+  [D. Neider](http://people.mpi-sws.org/~neider/)\\
+  [arXiv](https://arxiv.org/abs/2310.13778){: .btn .btn--primary .btn--small}
 
 ## Conference Papers
 
