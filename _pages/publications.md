@@ -4,25 +4,25 @@ permalink: /publications/
 classes: wide
 ---  
 
-## Under Submission
-  
-* **Synthesizing Efficiently Monitorable Formulas in Metric
-  Temporal Logic.**\\
-  R. Raha,
-  R. Roy,
-  N. Fijalkow,
-  D. Neider,
-  G.A. Perez.
-
-
 
 ## Conference Papers
+
+* **Synthesizing Efficiently Monitorable Formulas in Metric
+  Temporal Logic.**\\
+  [R. Raha](https://ritamraha.github.io/),
+  R. Roy,
+  [N. Fijalkow](https://ritamraha.github.io/),
+  [D. Neider](http://people.mpi-sws.org/~neider/)
+  [G.A. Perez](https://gaperez64.github.io/).\\
+  [**VMCAI 2024**]: _To Appear_
 
 * **Specification Sketching for Linear Temporal Logic.**\\
   S. Lutz,
   [D. Neider](http://people.mpi-sws.org/~neider/),
   R. Roy.\\
-  [**ATVA 2023**](https://atva-conference.org/2023/): _To Appear_\\
+  [**ATVA 2023**](https://atva-conference.org/2023/): _Automated Technology For Verification and Analysis, 2023_\\
+  [paper](https://link.springer.com/chapter/10.1007/978-3-031-45332-8_2){: .btn .btn--primary .btn--small}
+  [tool](https://github.com/rajarshi008/LTLSketcher){: .btn .btn--primary .btn--small}
   [arXiv](https://arxiv.org/abs/2206.06722){: .btn .btn--primary .btn--small}
 
 * **Learning Interpretable Temporal Properties from Positive Examples Only.**\\
