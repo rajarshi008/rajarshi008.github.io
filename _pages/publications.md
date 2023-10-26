@@ -5,7 +5,7 @@ classes: wide
 ---  
 ## Under Submission
 
-* **Inferring Properties in Computation Tree Logic**
+* **Inferring Properties in Computation Tree Logic**\\
   R. Roy,
   [D. Neider](http://people.mpi-sws.org/~neider/)\\
   [arXiv](https://arxiv.org/abs/2310.13778){: .btn .btn--primary .btn--small}
@@ -19,7 +19,7 @@ classes: wide
   [N. Fijalkow](https://ritamraha.github.io/),
   [D. Neider](http://people.mpi-sws.org/~neider/)
   [G.A. Perez](https://gaperez64.github.io/).\\
-  [**VMCAI 2024**](https://popl24.sigplan.org/home/VMCAI-2024): _To Appear_
+  [**VMCAI 2024**](https://popl24.sigplan.org/home/VMCAI-2024): _To Appear_\\
   [tool](https://github.com/ritamraha/Teal){: .btn .btn--primary .btn--small}
 
 * **Specification Sketching for Linear Temporal Logic.**\\
@@ -31,13 +31,13 @@ classes: wide
   [tool](https://github.com/rajarshi008/LTLSketcher){: .btn .btn--primary .btn--small}
   [arXiv](https://arxiv.org/abs/2206.06722){: .btn .btn--primary .btn--small}
 
-* **Reinforcement Learning with Temporal-Logic-Based Causal Diagrams.**
+* **Reinforcement Learning with Temporal-Logic-Based Causal Diagrams.**\\
   Y. Paliwal,
   R. Roy,
   [J. Gaglione](https://sites.google.com/view/jean-raphael-gaglione),
   N. Baharisangari,
   [D. Neider](http://people.mpi-sws.org/~neider/),
-  Xiaoming Duan,
+  [Xiaoming Duan](https://xmduan.github.io/),
   [U. Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page),
   [Z. Xu](https://sites.google.com/site/zhexudavid00710)\\
   [**CD-MAKE 2023**](https://cd-make.net/): _Cross Domain Conference for Machine Learning and Knowledge Extraction, 2023_\\
