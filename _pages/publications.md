@@ -15,6 +15,7 @@ classes: wide
   [D. Neider](http://people.mpi-sws.org/~neider/)
   [G.A. Perez](https://gaperez64.github.io/).\\
   [**VMCAI 2024**](https://popl24.sigplan.org/home/VMCAI-2024): _To Appear_
+  [tool](https://github.com/ritamraha/Teal){: .btn .btn--primary .btn--small}
 
 * **Specification Sketching for Linear Temporal Logic.**\\
   S. Lutz,
@@ -181,12 +182,12 @@ classes: wide
 
 ## Tools
 
-* **[SCARLET]**: A scalable [LTL](https://en.wikipedia.org/wiki/Linear_temporal_logic) inference tool.\\
+* **SCARLET**: A scalable [LTL](https://en.wikipedia.org/wiki/Linear_temporal_logic) inference tool.\\
   [website](https://scarlet.labri.fr/){: .btn .btn--primary .btn--small}
   [github](https://github.com/rajarshi008/Scarlet){: .btn .btn--primary .btn--small}
   [package](https://pypi.org/project/Scarlet-ltl/0.0.1/){: .btn .btn--primary .btn--small}
 
-* **[Flie-PSL]**: A tool for inferring [PSL](https://en.wikipedia.org/wiki/Property_Specification_Language) formulas.\\
+* **Flie-PSL**: A tool for inferring [PSL](https://en.wikipedia.org/wiki/Property_Specification_Language) formulas.\\
   [github](https://github.com/ifm-mpi/fliePSL){: .btn .btn--primary .btn--small}
 
 
