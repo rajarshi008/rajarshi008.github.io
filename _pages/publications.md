@@ -31,6 +31,19 @@ classes: wide
   [tool](https://github.com/rajarshi008/LTLSketcher){: .btn .btn--primary .btn--small}
   [arXiv](https://arxiv.org/abs/2206.06722){: .btn .btn--primary .btn--small}
 
+* **Reinforcement Learning with Temporal-Logic-Based Causal Diagrams.**
+  Y. Paliwal,
+  R. Roy,
+  [J. Gaglione](https://sites.google.com/view/jean-raphael-gaglione),
+  N. Baharisangari,
+  [D. Neider](http://people.mpi-sws.org/~neider/),
+  Xiaoming Duan,
+  [U. Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page),
+  [Z. Xu](https://sites.google.com/site/zhexudavid00710)\\
+  [**CD-MAKE 2023**](https://cd-make.net/): _Cross Domain Conference for Machine Learning and Knowledge Extraction, 2023_\\
+  [paper](https://link.springer.com/chapter/10.1007/978-3-031-40837-3_8){: .btn .btn--primary .btn--small}
+  [arXiv](https://arxiv.org/abs/2306.13732){: .btn .btn--primary .btn--small}
+
 * **Learning Interpretable Temporal Properties from Positive Examples Only.**\\
   R. Roy,
   [J. Gaglione](https://sites.google.com/view/jean-raphael-gaglione),
