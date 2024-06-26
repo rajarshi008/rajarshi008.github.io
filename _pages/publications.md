@@ -3,14 +3,13 @@ title: "Publications"
 permalink: /publications/
 classes: wide
 ---  
-## Under Submission
-
-* **Inferring Properties in Computation Tree Logic**\\
-  R. Roy,
-  [D. Neider](http://people.mpi-sws.org/~neider/)\\
-  [arXiv](https://arxiv.org/abs/2310.13778){: .btn .btn--primary .btn--small}
-
 ## Conference Papers
+
+* **Learning Branching-Time Properties in CTL and ATL**\\
+  [B, Bordais](http://www.lsv.fr/~bordais/),
+  [D. Neider](http://people.mpi-sws.org/~neider/),
+  R. Roy\\
+  [**FM 2024**] (https://www.fm24.polimi.it/) To Appear
 
 * **Synthesizing Efficiently Monitorable Formulas in Metric
   Temporal Logic.**\\
@@ -19,7 +18,8 @@ classes: wide
   [N. Fijalkow](https://ritamraha.github.io/),
   [D. Neider](http://people.mpi-sws.org/~neider/)
   [G.A. Perez](https://gaperez64.github.io/).\\
-  [**VMCAI 2024**](https://popl24.sigplan.org/home/VMCAI-2024): _To Appear_\\
+  [**VMCAI 2024**](https://popl24.sigplan.org/home/VMCAI-2024): Verification, Model Checking, and Abstract Interpretation, 2024\\
+  [paper](https://link.springer.com/chapter/10.1007/978-3-031-50521-8_13){: .btn .btn--primary .btn--small}
   [tool](https://github.com/ritamraha/Teal){: .btn .btn--primary .btn--small}
 
 * **Specification Sketching for Linear Temporal Logic.**\\
@@ -159,6 +159,26 @@ classes: wide
   [paper](https://www.cmi.ac.in/~madhavan/papers/pdf/bemr-netys2018.pdf){: .btn .btn--primary .btn--small}
 
 ## Journal and Workshop Papers
+
+* **SCARLET: Scalable Anytime Algorithms for Learning Fragments of Linear Temporal Logic.**\\
+  [R. Raha](https://ritamraha.github.io/),
+  R. Roy,
+  [N. Fijalkow](https://ritamraha.github.io/),
+  [D. Neider](http://people.mpi-sws.org/~neider/)\\
+  [**JOSS 2024**](https://etaps.org/2022/tacas): _Journal of Open Source Software,_\\
+  [paper](https://joss.theoj.org/papers/10.21105/joss.05052){: .btn .btn--primary .btn--small}
+
+* **Analyzing Robustness of Angluin's L* Algorithm in Presence of Noise.**\\
+  [I. Khmelnitsky](https://igorkhm.github.io/),
+  [S. Haddad](http://www.lsv.fr/~haddad/),
+  [L. Ye](https://www.lri.fr/~linaye/),
+  [B. Barbot](https://www.lacl.fr/~barbot/),
+  [B. Bollig](https://www.benedikt-bollig.org/),
+  [M. Leucker](https://www.isp.uni-luebeck.de/leucker),
+  [D. Neider](http://people.mpi-sws.org/~neider/),
+  R. Roy\\
+  [**LMCS**](https://lmcs.episciences.org/): _Logical Methods in Computer Science, 2024_\\
+  [paper](https://lmcs.episciences.org/13257){: .btn .btn--primary .btn--small}
 
 * **Analysis of Recurrent Neural Networks via Property-Directed Verification of Surrogate Models**\\
   [I. Khmelnitsky](https://igorkhm.github.io/),

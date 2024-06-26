@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Rajarshi Roy"
 name: "Rajarshi Roy"
-email: "rajarshi@mpi-sws.org"
+email: "rajarshi.roy@cs.ox.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
   Rajarshi Roy's personal web page
 url: "https://rajarshi008.github.io"
@@ -72,8 +72,8 @@ plugins:
 author:
   name   : "Rajarshi Roy"
   avatar : "/assets/images/me.jpg"
-  bio    : "Doctoral student at Max Planck Institute for Software Systems"
-  location: "Kaiserslautern, Germany"
+  bio    : "Research Associate at University of Oxford"
+  location: "Oxford, UK"
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
