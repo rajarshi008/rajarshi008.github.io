@@ -6,10 +6,10 @@ classes: wide
 ## Conference Papers
 
 * **Learning Branching-Time Properties in CTL and ATL**\\
-  [B, Bordais](http://www.lsv.fr/~bordais/),
+  [B. Bordais](http://www.lsv.fr/~bordais/),
   [D. Neider](http://people.mpi-sws.org/~neider/),
   R. Roy\\
-  [**FM 2024**] (https://www.fm24.polimi.it/) To Appear
+  [**FM 2024**](https://www.fm24.polimi.it/) To Appear
 
 * **Synthesizing Efficiently Monitorable Formulas in Metric
   Temporal Logic.**\\
@@ -165,7 +165,7 @@ classes: wide
   R. Roy,
   [N. Fijalkow](https://ritamraha.github.io/),
   [D. Neider](http://people.mpi-sws.org/~neider/)\\
-  [**JOSS 2024**](https://etaps.org/2022/tacas): _Journal of Open Source Software,_\\
+  [**JOSS 2024**](https://joss.theoj.org/): _Journal of Open Source Software, 2024_\\
   [paper](https://joss.theoj.org/papers/10.21105/joss.05052){: .btn .btn--primary .btn--small}
 
 * **Analyzing Robustness of Angluin's L* Algorithm in Presence of Noise.**\\
