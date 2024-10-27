@@ -10,8 +10,8 @@ classes: wide
   [D. Neider](http://people.mpi-sws.org/~neider/),
   R. Roy\\
   [**FM 2024**](https://www.fm24.polimi.it/) Formal Methods, 2024\\
-  [paper](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_16)
-  [tool](https://github.com/rajarshi008/learning-branching-time)
+  [paper](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_16){: .btn .btn--primary .btn--small}
+  [tool](https://github.com/rajarshi008/learning-branching-time){: .btn .btn--primary .btn--small}
 
 * **Synthesizing Efficiently Monitorable Formulas in Metric
   Temporal Logic.**\\
@@ -222,7 +222,7 @@ classes: wide
 ## Thesis
 
 * PhD thesis: **Learning Temporal Properties for Explainability and Verification**\\
-[pdf](assets/files/roy_thesis){: .btn .btn--primary .btn--small}\\
+[pdf](assets/files/roy_thesis){: .btn .btn--primary .btn--small}
   [link](https://kluedo.ub.rptu.de/frontdoor/index/index/docId/8425){: .btn .btn--primary .btn--small}
     
 
