@@ -9,7 +9,9 @@ classes: wide
   [B. Bordais](http://www.lsv.fr/~bordais/),
   [D. Neider](http://people.mpi-sws.org/~neider/),
   R. Roy\\
-  [**FM 2024**](https://www.fm24.polimi.it/) To Appear
+  [**FM 2024**](https://www.fm24.polimi.it/) Formal Methods, 2024\\
+  [paper](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_16)
+  [tool](https://github.com/rajarshi008/learning-branching-time)
 
 * **Synthesizing Efficiently Monitorable Formulas in Metric
   Temporal Logic.**\\
@@ -216,6 +218,14 @@ classes: wide
   [D. Neider](https://people.mpi-sws.org/~neider/)\\
   [**OVERLAY@GandALF 2021**](https://overlay.uniud.it/workshop/2021/): _Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis, 2021_\\
   [paper](http://ceur-ws.org/Vol-2987/paper18.pdf){: .btn .btn--primary .btn--small}
+
+## Thesis
+
+* **Learning Temporal Properties for Explainability and Verification**: A scalable [LTL](https://en.wikipedia.org/wiki/Linear_temporal_logic) inference tool.\\
+  [website](https://scarlet.labri.fr/){: .btn .btn--primary .btn--small}
+  [github](https://github.com/rajarshi008/Scarlet){: .btn .btn--primary .btn--small}
+  [package](https://pypi.org/project/Scarlet-ltl/0.0.1/){: .btn .btn--primary .btn--small}
+
 
 
 ## Tools
