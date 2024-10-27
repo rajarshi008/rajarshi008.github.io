@@ -221,11 +221,13 @@ classes: wide
 
 ## Thesis
 
-* **Learning Temporal Properties for Explainability and Verification**: A scalable [LTL](https://en.wikipedia.org/wiki/Linear_temporal_logic) inference tool.\\
-  [website](https://scarlet.labri.fr/){: .btn .btn--primary .btn--small}
-  [github](https://github.com/rajarshi008/Scarlet){: .btn .btn--primary .btn--small}
-  [package](https://pypi.org/project/Scarlet-ltl/0.0.1/){: .btn .btn--primary .btn--small}
+* PhD thesis: **Learning Temporal Properties for Explainability and Verification**\\
+[pdf](assets/files/roy_thesis){: .btn .btn--primary .btn--small}\\
+  [link](https://kluedo.ub.rptu.de/frontdoor/index/index/docId/8425){: .btn .btn--primary .btn--small}
+    
 
+* Master's thesis: **SAT-based learning algorithms.**\\
+  [pdf](assets/files/masters_thesis){: .btn .btn--primary .btn--small}
 
 
 ## Tools
@@ -241,6 +243,4 @@ classes: wide
 
 ## Masters Thesis
 
-* **SAT-based learning algorithms.** \\
-  supervised by [Daniel Neider](https://people.mpi-sws.org/~neider/)\\
-  [pdf](assets/files/masters_thesis){: .btn .btn--primary .btn--small}
+
