@@ -72,7 +72,7 @@ plugins:
 author:
   name   : "Rajarshi Roy"
   avatar : "/assets/images/me.jpg"
-  bio    : "Research Associate at University of Oxford"
+  bio    : "Postdoctoral Researcher at University of Oxford"
   location: "Oxford, UK"
   links:
     - label: "Facebook"
