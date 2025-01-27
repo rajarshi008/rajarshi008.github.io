@@ -8,20 +8,20 @@ classes: wide
 * **The Complexity of Learning LTL, CTL and ATL formulas**\\
   [B. Bordais](http://www.lsv.fr/~bordais/),
   [D. Neider](https://researchers.rc-trust.ai/neider/),
-  R. Roy\\
-  [**STACS 2025**](https://stacs2025.de/) Symposium on Theoretical Aspects of Computer Science, 2025 (To appear)\\
+  R. Roy.\\
+  [**STACS 2025**](https://stacs2025.de/): Symposium on Theoretical Aspects of Computer Science, 2025 (To appear)
 
 * **What Is Formal Verification Without Specifications? A Survey on Mining LTL Specifications**\\
   [D. Neider](https://researchers.rc-trust.ai/neider/),
-  R. Roy\\
-  [**PoV 2025**](https://www.fm24.polimi.it/) Principles of Verification: Cycling the Probabilistic Landscape, 2025\\
+  R. Roy.\\
+  [**POV 2025**](https://link.springer.com/book/10.1007/978-3-031-75775-4): Principles of Verification: Cycling the Probabilistic Landscape, 2025\\
   [paper](https://link.springer.com/chapter/10.1007/978-3-031-75778-5_6){: .btn .btn--primary .btn--small}
 
 
 * **Learning Branching-Time Properties in CTL and ATL via Constraint Solving**\\
   [B. Bordais](http://www.lsv.fr/~bordais/),
   [D. Neider](https://researchers.rc-trust.ai/neider/),
-  R. Roy\\
+  R. Roy.\\
   [**FM 2024**](https://www.fm24.polimi.it/) Formal Methods, 2024\\
   [paper](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_16){: .btn .btn--primary .btn--small}
   [tool](https://github.com/rajarshi008/learning-branching-time){: .btn .btn--primary .btn--small}
@@ -235,12 +235,12 @@ classes: wide
 ## Thesis
 
 * PhD thesis: **Learning Temporal Properties for Explainability and Verification**\\
-[pdf](assets/files/roy-thesis.pdf){: .btn .btn--primary .btn--small}
+  [pdf](/assets/files/roy-thesis.pdf){: .btn .btn--primary .btn--small}
   [link](https://kluedo.ub.rptu.de/frontdoor/index/index/docId/8425){: .btn .btn--primary .btn--small}
     
 
 * Master's thesis: **SAT-based learning algorithms.**\\
-  [pdf](assets/files/masters_thesis.pdf){: .btn .btn--primary .btn--small}
+  [pdf](/assets/files/masters_thesis.pdf){: .btn .btn--primary .btn--small}
 
 
 ## Tools
