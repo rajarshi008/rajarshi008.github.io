@@ -5,6 +5,19 @@ classes: wide
 ---  
 ## Conference Papers
 
+* **The Complexity of Learning LTL, CTL and ATL formulas**\\
+  [B. Bordais](http://www.lsv.fr/~bordais/),
+  [D. Neider](https://researchers.rc-trust.ai/neider/),
+  R. Roy\\
+  [**STACS 2025**](https://stacs2025.de/) Symposium on Theoretical Aspects of Computer Science, 2025 (To appear)\\
+
+* **What Is Formal Verification Without Specifications? A Survey on Mining LTL Specifications**\\
+  [D. Neider](https://researchers.rc-trust.ai/neider/),
+  R. Roy\\
+  [**PoV 2025**](https://www.fm24.polimi.it/) Principles of Verification: Cycling the Probabilistic Landscape, 2025\\
+  [paper](https://link.springer.com/chapter/10.1007/978-3-031-75778-5_6){: .btn .btn--primary .btn--small}
+
+
 * **Learning Branching-Time Properties in CTL and ATL via Constraint Solving**\\
   [B. Bordais](http://www.lsv.fr/~bordais/),
   [D. Neider](https://researchers.rc-trust.ai/neider/),
@@ -139,7 +152,7 @@ classes: wide
   [E. Müller](http://ls9-www.cs.tu-dortmund.de/),
   [D. Neider](https://researchers.rc-trust.ai/neider/).\\
   [**ECML/PKDD 2020**](https://ecmlpkdd2020.net/): _Machine Learning and Knowledge Discovery in Databases - European Conference, 2020_\\
-  [paper](https://www.springerprofessional.de/en/quality-guarantees-for-autoencoders-via-unsupervised-adversarial/18899728){: .btn .btn--primary .btn--small}
+  [paper](https://link.springer.com/chapter/10.1007/978-3-030-67661-2_13){: .btn .btn--primary .btn--small}
   [open-access](http://ls9-www.cs.tu-dortmund.de/publications/ECMLPKDD2020.pdf){: .btn .btn--primary .btn--small}
   [talk](https://slideslive.com/38932393/quality-guarantees-for-autoencoders){: .btn .btn--primary .btn--small}
 
