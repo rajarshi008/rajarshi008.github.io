@@ -5,11 +5,19 @@ classes: wide
 ---  
 ## Conference Papers
 
+* **Learning Probabilistic Temporal Logic Specifications for Stochastic Systems**\\
+  R. Roy,
+  [Y. Pote](https://researchers.rc-trust.ai/neider/),
+  [D. Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html),
+  [M. Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)\\
+  [**IJCAI 2025**](https://2025.ijcai.org/): International Joint Conference on Artificial Intelligence, 2025 (To Appear)
+
 * **The Complexity of Learning LTL, CTL and ATL formulas**\\
   [B. Bordais](http://www.lsv.fr/~bordais/),
   [D. Neider](https://researchers.rc-trust.ai/neider/),
   R. Roy.\\
-  [**STACS 2025**](https://stacs2025.de/): Symposium on Theoretical Aspects of Computer Science, 2025 (To appear)
+  [**STACS 2025**](https://stacs2025.de/): Symposium on Theoretical Aspects of Computer Science, 2025
+  [paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2025.19)
 
 * **What Is Formal Verification Without Specifications? A Survey on Mining LTL Specifications**\\
   [D. Neider](https://researchers.rc-trust.ai/neider/),
