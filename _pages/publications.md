@@ -7,7 +7,7 @@ classes: wide
 
 * **Learning Probabilistic Temporal Logic Specifications for Stochastic Systems**\\
   R. Roy,
-  [Y. Pote](https://researchers.rc-trust.ai/neider/),
+  [Y. Pote](https://yashpote.github.io/),
   [D. Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html),
   [M. Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)\\
   [**IJCAI 2025**](https://2025.ijcai.org/): International Joint Conference on Artificial Intelligence, 2025 (To Appear)
