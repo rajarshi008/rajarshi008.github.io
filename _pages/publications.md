@@ -2,7 +2,17 @@
 title: "Publications"
 permalink: /publications/
 classes: wide
----  
+--- 
+## Under Submission
+
+* **About Time: Model-free Reinforcement Learning with Timed Reward Machines**
+  [A. Majumdar](https://anirban11.github.io/),
+  [R. Raha](https://ritamraha.github.io/),
+  R. Roy,
+  [D. Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html),
+  [M. Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)
+
+
 ## Conference Papers
 
 * **Learning Probabilistic Temporal Logic Specifications for Stochastic Systems**\\
@@ -10,14 +20,17 @@ classes: wide
   [Y. Pote](https://yashpote.github.io/),
   [D. Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html),
   [M. Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)\\
-  [**IJCAI 2025**](https://2025.ijcai.org/): International Joint Conference on Artificial Intelligence, 2025 (To Appear)
+  [**IJCAI 2025**](https://2025.ijcai.org/): International Joint Conference on Artificial Intelligence, 2025\\
+  [paper](https://www.ijcai.org/proceedings/2025/0517.pdf){: .btn .btn--primary .btn--small}
+  [tool](https://github.com/rajarshi008/PriTL){: .btn .btn--primary .btn--small}
+  [arXiv](https://arxiv.org/abs/2505.12107){: .btn .btn--primary .btn--small}
 
 * **The Complexity of Learning LTL, CTL and ATL formulas**\\
   [B. Bordais](http://www.lsv.fr/~bordais/),
   [D. Neider](https://researchers.rc-trust.ai/neider/),
   R. Roy.\\
-  [**STACS 2025**](https://stacs2025.de/): Symposium on Theoretical Aspects of Computer Science, 2025
-  [paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2025.19)
+  [**STACS 2025**](https://stacs2025.de/): Symposium on Theoretical Aspects of Computer Science, 2025\\
+  [paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2025.19){: .btn .btn--primary .btn--small}
 
 * **What Is Formal Verification Without Specifications? A Survey on Mining LTL Specifications**\\
   [D. Neider](https://researchers.rc-trust.ai/neider/),
@@ -25,12 +38,11 @@ classes: wide
   [**POV 2025**](https://link.springer.com/book/10.1007/978-3-031-75775-4): Principles of Verification: Cycling the Probabilistic Landscape, 2025\\
   [paper](https://link.springer.com/chapter/10.1007/978-3-031-75778-5_6){: .btn .btn--primary .btn--small}
 
-
 * **Learning Branching-Time Properties in CTL and ATL via Constraint Solving**\\
   [B. Bordais](http://www.lsv.fr/~bordais/),
   [D. Neider](https://researchers.rc-trust.ai/neider/),
   R. Roy.\\
-  [**FM 2024**](https://www.fm24.polimi.it/) Formal Methods, 2024\\
+  [**FM 2024**](https://www.fm24.polimi.it/): Formal Methods, 2024\\
   [paper](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_16){: .btn .btn--primary .btn--small}
   [tool](https://github.com/rajarshi008/learning-branching-time){: .btn .btn--primary .btn--small}
 
@@ -39,7 +51,7 @@ classes: wide
   [R. Raha](https://ritamraha.github.io/),
   R. Roy,
   [N. Fijalkow](https://games-automata-play.com/),
-  [D. Neider](https://researchers.rc-trust.ai/neider/)
+  [D. Neider](https://researchers.rc-trust.ai/neider/),
   [G.A. Perez](https://gaperez64.github.io/).\\
   [**VMCAI 2024**](https://popl24.sigplan.org/home/VMCAI-2024): Verification, Model Checking, and Abstract Interpretation, 2024\\
   [paper](https://link.springer.com/chapter/10.1007/978-3-031-50521-8_13){: .btn .btn--primary .btn--small}
@@ -98,14 +110,14 @@ classes: wide
   R. Roy,
   [M. Zimmerman](https://homes.cs.aau.dk/~mzi/).\\
   [**NFM 2022**](https://nfm2022.caltech.edu/): _NASA Formal Methods Symposium, 2022_\\
-  [paper](https://link.springer.com/chapter/10.1007/978-3-030-99524-9_14){: .btn .btn--primary .btn--small}
+  [paper](https://link.springer.com/article/10.1007/s11334-024-00552-7){: .btn .btn--primary .btn--small}
   [arXiv](https://arxiv.org/abs/2201.07116){: .btn .btn--primary .btn--small}
 
 * **Scalable Anytime Algorithms for Learning Fragments of Linear Temporal Logic.**\\
   [R. Raha](https://ritamraha.github.io/),
   R. Roy,
   [N. Fijalkow](https://games-automata-play.com/),
-  [D. Neider](http://people.mpi-sws.org/~neider/).\\
+  [D. Neider](https://researchers.rc-trust.ai/neider/).\\
   [**TACAS 2022**](https://etaps.org/2022/tacas): _Tools and Algorithms for the Construction and Analysis of Systems, 2022_\\
   [paper](https://link.springer.com/chapter/10.1007/978-3-030-99524-9_14){: .btn .btn--primary .btn--small}
   [arXiv](https://arXiv.org/pdf/2110.06726.pdf){: .btn .btn--primary .btn--small}
@@ -118,8 +130,8 @@ classes: wide
   [A. Finkel](http://www.lsv.fr/~finkel/),
   [S. Haddad](http://www.lsv.fr/~haddad/),
   [I. Khmelnitsky](https://igorkhm.github.io/),
-  [M. Leucker](https://www.isp.uni-luebeck.de/leucker)
-  [D. Neider](http://people.mpi-sws.org/~neider/),
+  [M. Leucker](https://www.isp.uni-luebeck.de/leucker),
+  [D. Neider](https://researchers.rc-trust.ai/neider/),
   R. Roy,
   [L. Ye](https://www.lri.fr/~linaye/).\\
   [**ICGI 2021**](https://icgi2020.lis-lab.fr/): _International Conference on Grammatical Inference, 2021_\\
@@ -128,7 +140,7 @@ classes: wide
 
 * **Learning Linear Temporal Properties from Noisy Data - A MaxSAT-based approach.**\\
   [J. Gaglione](https://sites.google.com/view/jean-raphael-gaglione),
-  [D. Neider](http://people.mpi-sws.org/~neider/),
+  [D. Neider](https://researchers.rc-trust.ai/neider/),
   R. Roy,
   [U. Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page),
   [Z. Xu](https://sites.google.com/site/zhexudavid00710).\\
@@ -140,7 +152,7 @@ classes: wide
 
 * **Property-Directed Verification and Robustness Certification of Recurrent Neural Networks.**\\
   [I. Khmelnitsky](https://igorkhm.github.io/),
-  [D. Neider](http://people.mpi-sws.org/~neider/),
+  [D. Neider](https://researchers.rc-trust.ai/neider/),
   R. Roy,
   [X. Xie](https://lebronx.github.io/),
   [B. Barbot](https://www.lacl.fr/~barbot/),
@@ -150,8 +162,8 @@ classes: wide
   [M. Leucker](https://www.isp.uni-luebeck.de/leucker), 
   [L. Ye](https://www.lri.fr/~linaye/).\\
   [**ATVA 2021**](https://formal-analysis.com/atva/2021/): _Automated Technology For Verification and Analysis, 2021_\\
-  [paper](https://link.springer.com/chapter/10.1007/978-3-030-88885-5_6){: .btn .btn--primary .btn--small}
-  [arXiv](https://arXiv.org/abs/2104.15083){: .btn .btn--primary .btn--small}
+  [paper](https://link.springer.com/chapter/10.1007/978-3-030-88885-5_24){: .btn .btn--primary .btn--small}
+  [arXiv](https://arxiv.org/abs/2009.10610){: .btn .btn--primary .btn--small}
   [repository](https://github.com/LeaRNNify/Property-directed-verification){: .btn .btn--primary .btn--small}
 
 * **Quality Guarantees for Autoencoders via Unsupervised Adversarial Attacks.**\\
@@ -207,7 +219,7 @@ classes: wide
   [I. Khmelnitsky](https://igorkhm.github.io/),
   [D. Neider](https://researchers.rc-trust.ai/neider/),
   R. Roy,
-  [X. Xie](https://lebronx.github.io/)
+  [X. Xie](https://lebronx.github.io/),
   [B. Barbot](https://www.lacl.fr/~barbot/),
   [B. Bollig](https://www.benedikt-bollig.org/),
   [A. Finkel](http://www.lsv.fr/~finkel/),
@@ -219,13 +231,13 @@ classes: wide
 
 * **Expanding the horizon of Linear Temporal Logic Inference for Explainability**\\
   R. Roy,
-  [D. Neider](http://people.mpi-sws.org/~neider/).\\
+  [D. Neider](https://researchers.rc-trust.ai/neider/).\\
   [**RE4ES 2022**](https://re4es.se.uni-hannover.de/): _Requirements Engineering for Explainable Systems, 2022_\\
   [paper](https://ieeexplore.ieee.org/document/9920141){: .btn .btn--primary .btn--small}
 
 * **MaxSAT-based Temporal Logic Inference from Noisy Data**\\
   [J. Gaglione](https://sites.google.com/view/jean-raphael-gaglione),
-  [D. Neider](http://people.mpi-sws.org/~neider/),
+  [D. Neider](https://researchers.rc-trust.ai/neider/),
   R. Roy,
   [U. Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page),
   [Z. Xu](https://sites.google.com/site/zhexudavid00710).\\
@@ -260,8 +272,4 @@ classes: wide
 
 * **Flie-PSL**: A tool for inferring [PSL](https://en.wikipedia.org/wiki/Property_Specification_Language) formulas.\\
   [github](https://github.com/ifm-mpi/fliePSL){: .btn .btn--primary .btn--small}
-
-
-## Masters Thesis
-
 
