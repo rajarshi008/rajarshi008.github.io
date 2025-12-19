@@ -4,6 +4,9 @@ permalink: /teaching/
 classes: wide
 ---
 
+During my time in Oxford, I have been a teaching assistant to the following courses:
+
+* Probabilistic Model Checking (Fall 2024)
 
 During my time in MPI-SWS, I have been a teaching assistant to the following courses:
 
