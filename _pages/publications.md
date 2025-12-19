@@ -12,7 +12,6 @@ classes: wide
   [D. Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html),
   [M. Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)
 
-
 ## Conference Papers
 
 * **Learning Probabilistic Temporal Logic Specifications for Stochastic Systems**\\
