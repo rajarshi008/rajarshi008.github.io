@@ -72,8 +72,8 @@ plugins:
 author:
   name   : "Rajarshi Roy"
   avatar : "/assets/images/me.jpg"
-  bio    : "Postdoctoral Researcher at University of Oxford"
-  location: "Oxford, UK"
+  bio    : "Postdoctoral Researcher at University of Liverpool"
+  location: "Liverpool, UK"
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
