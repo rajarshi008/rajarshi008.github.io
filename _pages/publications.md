@@ -5,7 +5,7 @@ classes: wide
 --- 
 ## Under Submission
 
-* **About Time: Model-free Reinforcement Learning with Timed Reward Machines**
+* **About Time: Model-free Reinforcement Learning with Timed Reward Machines**\\
   [A. Majumdar](https://anirban11.github.io/),
   [R. Raha](https://ritamraha.github.io/),
   R. Roy,
