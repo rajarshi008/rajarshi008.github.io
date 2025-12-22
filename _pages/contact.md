@@ -5,7 +5,7 @@ permalink: /contact/
 
 ## Office
 
-You can find me in Ashton Building, Liverpool, United Kingdom
+You can find me in Ashton Building, University of Liverpool, UK
 
 
 ## Email

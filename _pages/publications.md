@@ -10,7 +10,8 @@ classes: wide
   [R. Raha](https://ritamraha.github.io/),
   R. Roy,
   [D. Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html),
-  [M. Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)
+  [M. Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)\\
+  [arXiv](http://arxiv.org/abs/2512.17637){: .btn .btn--primary .btn--small}
 
 ## Conference Papers
 
