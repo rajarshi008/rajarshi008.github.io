@@ -5,15 +5,21 @@ classes: wide
 --- 
 ## Under Submission
 
+* **PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors**
+  X. Huang, J. Hu, R. Roy, C. Wu, Y. Dong, X. Huang \\
+  [arXiv](https://arxiv.org/abs/2605.06455){: .btn .btn--primary .btn--small}
+
+## Conference Papers
+
 * **About Time: Model-free Reinforcement Learning with Timed Reward Machines**\\
   [A. Majumdar](https://anirban11.github.io/),
   [R. Raha](https://ritamraha.github.io/),
   R. Roy,
   [D. Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html),
   [M. Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)\\
+  [**IJCAI 2026**](https://2026.ijcai.org/): To appear\\
+  [tool](https://github.com/ritamraha/Timed-Reward-Machines){: .btn .btn--primary .btn--small}
   [arXiv](http://arxiv.org/abs/2512.17637){: .btn .btn--primary .btn--small}
-
-## Conference Papers
 
 * **Learning Probabilistic Temporal Logic Specifications for Stochastic Systems**\\
   R. Roy,
